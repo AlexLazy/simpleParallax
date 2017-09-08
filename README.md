@@ -6,7 +6,7 @@ Check out this **[demo][demo]** to see it in action!
 
 ## Setup
 
-Clone this repository or install with npm `npm install --save simpleParallax`.
+Clone this repository or install with npm `npm install --save simple-parallax`.
 
 ```javascript
 $('#parallax').simpleParallax();
